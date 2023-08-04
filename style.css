@@ -1,0 +1,38 @@
+#canvasOne
+{ 
+    border: 3px solid;
+}
+#canvasTwo
+{
+    border: 3px solid;
+}
+#canvasThree
+{
+    border: 3px solid;
+}
+#mainBoard1
+{
+    text-align: center;
+}
+#mainBoard2
+{
+    text-align: center;
+   
+}
+#mainBoard3
+{
+    text-align: center;
+}
+#mainBoard4
+{
+    text-align: center;
+   
+}
+.center {
+    padding: 70px 0;
+    border: 3px solid green;
+}
+
+div {
+    height: 200px;
+}
